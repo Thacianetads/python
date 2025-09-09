@@ -20,3 +20,7 @@ Exibe todas as tarefas atualmente salvas.
 
 🚪 Sair do programa
 Encerra o loop e finaliza a aplicação.
+
+# 🛠 Requisitos
+
+Python 3
